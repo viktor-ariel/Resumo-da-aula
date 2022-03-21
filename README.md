@@ -44,6 +44,8 @@ Pressionar shift enquanto reinicia computador ou quando o computador estiver lig
 <li><b>Windows + E = </b>Windows Explorer </li>
 
 <li><b>Windows + L =</b> Bloqueia a tela</li>
+  
+<li><b>Windows + Setas Direcionais =</b> Move a janela aberta.</li>
 
 <li><b>Alt + f4 =</b> Fecha a janela</li>
 
@@ -72,4 +74,4 @@ Pressionar shift enquanto reinicia computador ou quando o computador estiver lig
 <li><b>“Tecla que abre todas as funções do botão direito do mouse” Não sei o nome</b></li>
 
 <li><b>Fn =</b> Abre outras funções no Notebook. </li>
-</ul>
+ </ul>
