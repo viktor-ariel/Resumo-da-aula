@@ -58,7 +58,9 @@ Pressionar shift enquanto reinicia computador ou quando o computador estiver lig
 <li><b>Ctrl + J = </b>Download (navegador internet)</li>
 
 <li><b>Ctrl + N = </b>Histórico (navegador internet)</li>
-
+  
+<li><b>Ctrl + A = </b>Seleciona tudo</li>
+  
 <li><b>F13 resolve todos os seus problemas</b></li>
 
 <li><b>Scroll lock =</b> Muda de computador de estiver com mais de um ligado</li>
@@ -74,4 +76,6 @@ Pressionar shift enquanto reinicia computador ou quando o computador estiver lig
 <li><b>“Tecla que abre todas as funções do botão direito do mouse” Não sei o nome</b></li>
 
 <li><b>Fn =</b> Abre outras funções no Notebook. </li>
+  
+<li><b>Shift + < ou > =</b> Muda a velocida do you tube.</li>  
  </ul>
