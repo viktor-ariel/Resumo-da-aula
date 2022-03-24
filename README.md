@@ -77,5 +77,7 @@ Pressionar shift enquanto reinicia computador ou quando o computador estiver lig
 
 <li><b>Fn =</b> Abre outras funções no Notebook. </li>
   
-<li><b>Shift + < ou > =</b> Muda a velocida do you tube.</li>  
+<li><b>Shift + < ou > =</b> Muda a velocida do you tube.</li> 
+  
+<li><b>windows + shift + S =</b> Tira print de parte específica de algun llugar da tela </li>
  </ul>
