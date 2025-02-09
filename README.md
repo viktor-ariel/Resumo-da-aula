@@ -75,6 +75,9 @@ Pressionar shift enquanto reinicia computador ou quando o computador estiver lig
 
 <li><b>“Tecla que abre todas as funções do botão direito do mouse” Não sei o nome</b></li>
 
+<li><b>contorl shift win b , reinicia placa de video/// win r mrt virus veriviface //</b></li>
+
+
 <li><b>Fn =</b> Abre outras funções no Notebook. </li>
   
 <li><b>Shift + < ou > =</b> Muda a velocida do you tube.</li> 
